@@ -1,5 +1,5 @@
 // ⚠️ Sustituye esta URL por la de tu Worker una vez desplegado
-const WORKER_URL = 'https://vidilweb-dot.github.io/alhambra-guia/';
+const WORKER_URL = 'https://alhambra-guia.vidilweb.workers.dev/';
 
 const chatEls = {
   fab: document.getElementById('chatFab'),
